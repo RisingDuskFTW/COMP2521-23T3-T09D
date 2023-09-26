@@ -24,3 +24,12 @@ Code created during my T09D tutorials for COMP2521 in 23T3
 - Recursion Q5: Different list representation
 - Time Complexity Q0: Two Loops
 - Time Complexity Q1: Palindrome
+
+## Week 3: Sorting Algorithms
+
+- Q1: Stable Sorting
+- Q2: Bubble & Insertion Sort
+- Q3: Merge Sort
+- Q4: Quick Sort
+- Revision Q1: Sort Terminology
+- Complexity Test
