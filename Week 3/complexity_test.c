@@ -42,7 +42,7 @@ void f4(int n) {
     }
 
     // Time Complexity: O((log(n))^2)
-    for (int i = 0; i < n; i *= 2) {
+    for (int i = 1; i < n; i *= 2) {
         f2(i);
     }
 
@@ -57,7 +57,7 @@ void f4(int n) {
     // Time Complexity: O(n^2)
     for (int i = 0; i < n; i++) {           // O(n)
         f1(i);                              // O(n)
-        for (int j = 0; j < n; j *= 2) {    // O(log(n))
+        for (int j = 1; j <= n; j *= 2) {    // O(log(n))
             f2(j);                          // O(log(n))
         }
     }
@@ -65,7 +65,7 @@ void f4(int n) {
     // Time Complexity: o(n^2 * (log(n))^2)
     for (int i = 0; i < n; i++) {           // O(n)
         f1(i);                              // O(n)
-        for (int j = 0; j < n; j *= 2) {    // O(log(n))
+        for (int j = 1; j <= n; j *= 2) {    // O(log(n))
             f3(j);                          // O(n * log(n))
         }
     }
