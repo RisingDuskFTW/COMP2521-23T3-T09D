@@ -33,3 +33,12 @@ Code created during my T09D tutorials for COMP2521 in 23T3
 - Q4: Quick Sort
 - Revision Q1: Sort Terminology
 - Complexity Test
+
+## Week 4: ADTs and Binary Search Trees
+
+- ADT Q1: Using an ADT (Set)
+- BST Q1: Insertion
+- BST Q2: Traversal
+- BST Q3: Count odd numbers
+- BST Q4: Count internal nodes
+- BST Q6: Count Greater than val
