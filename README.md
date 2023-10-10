@@ -42,3 +42,11 @@ Code created during my T09D tutorials for COMP2521 in 23T3
 - BST Q3: Count odd numbers
 - BST Q4: Count internal nodes
 - BST Q6: Count Greater than val
+
+## Week 5: AVL Trees, Graph Basics
+
+- AVL Trees Q1: Inserting into an AVL Tree
+- AVL Trees Q2: Creating an AVL Tree
+- Graphs Q1: Graph Terminology
+- Graphs Q2: Graph Representations
+- Graphs Q3: Adjacency Matrices
