@@ -1,0 +1,9 @@
+Psuedocode Solution:
+
+– Create a graph from the variables and equalities where:
+    • Each vertex represents a variable
+    • If there is an equality x_i = x_j, there is an edge between i and j
+– Compute the connected components array
+– For each inequality x_i != x_j:
+    • If x_i and x_j are in the same connected component, return false
+– Return true
