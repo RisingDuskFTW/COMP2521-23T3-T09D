@@ -58,3 +58,11 @@ Code created during my T09D tutorials for COMP2521 in 23T3
 - Graph Theory Q2: Connected Components
 - Graph Theory Q3: Abstract Graph Problem
 - Graph Theory Q4: Euler / Hamiltonian Paths & Circuits
+
+## Week 8: Graphs and Graph Algorithms
+
+- Q1: Reachability
+- Q2: Reachability
+- Q3: Shortest Path (Dijkstra's Algorithm)
+- Q4: Minimum Spanning Tree (Kruskal's Algorithm)
+- Q5: Minimum Spanning Tree (Prim's Algorithm)
