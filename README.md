@@ -66,3 +66,12 @@ Code created during my T09D tutorials for COMP2521 in 23T3
 - Q3: Shortest Path (Dijkstra's Algorithm)
 - Q4: Minimum Spanning Tree (Kruskal's Algorithm)
 - Q5: Minimum Spanning Tree (Prim's Algorithm)
+
+## Week 9: Hash Tables
+
+- Q1: Hash Functions
+- Q2: Hash Table Time Complexity
+- Q3: Hash Collisions
+- Q4: Hash Tables vs AVL Trees
+- Q5: Three Sum with a Hash Table
+- Q7: Memoisation using a Hash Table
