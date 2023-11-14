@@ -75,3 +75,13 @@ Code created during my T09D tutorials for COMP2521 in 23T3
 - Q4: Hash Tables vs AVL Trees
 - Q5: Three Sum with a Hash Table
 - Q7: Memoisation using a Hash Table
+
+## Week 10: Heaps and Tries
+
+- Heaps Q1: Heap as Binary Tree
+- Heaps Q2: Heap as Array
+- Tries Q1: Tries
+- Tries Q2 & Q4: Tries
+- Tries Q3: Insertion
+- Tries Q5: Applications
+- Kahoot
